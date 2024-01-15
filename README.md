@@ -1,5 +1,5 @@
 # MMM-MyVideoPlayer
-Play gif, webm and mp4 files on your MagicMirror.
+Play gif, webm and mp4 files on your MagicMirror. (Audio included.)
 
 config.js
 ```
